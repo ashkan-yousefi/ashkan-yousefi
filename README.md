@@ -1,7 +1,29 @@
-### Hi there 👋
+# Hi there 👋
+
+<br/>
+My name is Ashkan.
+<br/>
+I started programming in 2020.
+<br/>
+Born in September 2003 in Iran.
+<br/>
+
+> I have worked with :
+* CSharp
+* Asp.net core
+* Asp.net core webapi
+* EF Core
+* Microservices Architeture
+* Clean Architeture
+* JWT,Identity,Solid,OOP
+
+> And Familiarity with :
+  Grpc , RabbitMQ , Git , Docker , Angular , WPF , Ts , Js , ...
+
+<br/>
 
 <!--
-**ashkan-yousefi/ashkan-yousefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashkanidev/ashkanidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
