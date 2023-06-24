@@ -18,7 +18,7 @@ Born in September 2003 in Iran.
 * JWT,Identity,Solid,OOP
 
 > And Familiarity with :
-  Grpc , RabbitMQ , Git , Docker , Angular , WPF , Ts , Js , CQRS , MediatR , HTML , CSS , XML ...
+  Grpc , RabbitMQ , Git , Docker , Angular , WPF , Ts , Js , CQRS , MediatR , HTML , CSS , XAML ...
 
 <br/>
 
